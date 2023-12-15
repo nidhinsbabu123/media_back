@@ -1,0 +1,303 @@
+{
+  "videos": [
+    {
+      "id": "84",
+      "caption": "In to the Wild",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+    },
+    {
+      "id": "38",
+      "caption": "Perks of being a wallflower",
+      "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+    }
+  ],
+  "category": [
+    {
+      "id": "51",
+      "name": "History",
+      "allCatVideos": [
+        [
+          {
+            "id": "84",
+            "caption": "In to the Wild",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+            "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+          },
+          {
+            "id": "38",
+            "caption": "Perks of being a wallflower",
+            "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+            "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+          },
+          {
+            "id": "55",
+            "caption": "Titanic",
+            "thumbnail": "https://m.economictimes.com/thumb/msid-101308545,width-1200,height-900,resizemode-4,imgsize-24346/netflix-slammed-for-plans-to-stream-titanic-accused-of-capitalizing-on-titan-submersible-tragedy.jpg",
+            "url": "https://www.youtube.com/embed/9XUxAS2ymIU"
+          },
+          {
+            "id": "77",
+            "caption": "Hacksaw Ridge",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+            "url": "https://www.youtube.com/embed/s2-1hz1juBI"
+          },
+          {
+            "id": "81",
+            "caption": "Wolverine",
+            "thumbnail": "https://images.cnbctv18.com/wp-content/uploads/2019/06/XMenDarkPhoenix.jpg?im=FitAndFill,width=1200,height=900",
+            "url": "https://www.youtube.com/embed/bN_JoyXkpKs"
+          },
+          {
+            "id": "25",
+            "caption": "GoT",
+            "thumbnail": "https://harpersbazaar.com.au/wp-content/uploads/2022/06/maxresdefault-1-1024x576.jpeg",
+            "url": "https://www.youtube.com/embed/s7L2PVdrb_8"
+          },
+          {
+            "id": "61",
+            "caption": "Harry Potter",
+            "thumbnail": "https://cdn.mos.cms.futurecdn.net/hFxbSeEGgUHd9csPokBUBW-1200-80.jpg",
+            "url": "https://www.youtube.com/embed/uc6-2z4e9oA"
+          },
+          {
+            "id": "12",
+            "caption": "Little Women",
+            "thumbnail": "https://wp.dailybruin.com/images/2019/12/ae.littlewomen.courtesy.jpg",
+            "url": "https://www.youtube.com/embed/AST2-4db4ic"
+          }
+        ],
+        {
+          "data": [
+            {
+              "id": "84",
+              "caption": "In to the Wild",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+              "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+            },
+            {
+              "id": "38",
+              "caption": "Perks of being a wallflower",
+              "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+              "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+            },
+            {
+              "id": "55",
+              "caption": "Titanic",
+              "thumbnail": "https://m.economictimes.com/thumb/msid-101308545,width-1200,height-900,resizemode-4,imgsize-24346/netflix-slammed-for-plans-to-stream-titanic-accused-of-capitalizing-on-titan-submersible-tragedy.jpg",
+              "url": "https://www.youtube.com/embed/9XUxAS2ymIU"
+            },
+            {
+              "id": "77",
+              "caption": "Hacksaw Ridge",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+              "url": "https://www.youtube.com/embed/s2-1hz1juBI"
+            },
+            {
+              "id": "81",
+              "caption": "Wolverine",
+              "thumbnail": "https://images.cnbctv18.com/wp-content/uploads/2019/06/XMenDarkPhoenix.jpg?im=FitAndFill,width=1200,height=900",
+              "url": "https://www.youtube.com/embed/bN_JoyXkpKs"
+            },
+            {
+              "id": "25",
+              "caption": "GoT",
+              "thumbnail": "https://harpersbazaar.com.au/wp-content/uploads/2022/06/maxresdefault-1-1024x576.jpeg",
+              "url": "https://www.youtube.com/embed/s7L2PVdrb_8"
+            },
+            {
+              "id": "61",
+              "caption": "Harry Potter",
+              "thumbnail": "https://cdn.mos.cms.futurecdn.net/hFxbSeEGgUHd9csPokBUBW-1200-80.jpg",
+              "url": "https://www.youtube.com/embed/uc6-2z4e9oA"
+            },
+            {
+              "id": "12",
+              "caption": "Little Women",
+              "thumbnail": "https://wp.dailybruin.com/images/2019/12/ae.littlewomen.courtesy.jpg",
+              "url": "https://www.youtube.com/embed/AST2-4db4ic"
+            }
+          ],
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:4000/videos/",
+            "data": "\"\""
+          },
+          "request": {}
+        },
+        [
+          {
+            "id": "84",
+            "caption": "In to the Wild",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+            "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+          },
+          {
+            "id": "38",
+            "caption": "Perks of being a wallflower",
+            "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+            "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "name": "War",
+      "allCatVideos": [
+        [
+          {
+            "id": "84",
+            "caption": "In to the Wild",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+            "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+          },
+          {
+            "id": "38",
+            "caption": "Perks of being a wallflower",
+            "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+            "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+          }
+        ],
+        [
+          {
+            "id": "84",
+            "caption": "In to the Wild",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+            "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+          },
+          {
+            "id": "38",
+            "caption": "Perks of being a wallflower",
+            "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+            "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+          }
+        ],
+        [
+          {
+            "id": "84",
+            "caption": "In to the Wild",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+            "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+          },
+          {
+            "id": "38",
+            "caption": "Perks of being a wallflower",
+            "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+            "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+          }
+        ],
+        [
+          {
+            "id": "84",
+            "caption": "In to the Wild",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM1MjQzMDA5NV5BMl5BanBnXkFtZTcwMDk5MDg3Mw@@._V1_.jpg",
+            "url": "https://www.youtube.com/embed/XZG1FzyB8DI"
+          },
+          {
+            "id": "38",
+            "caption": "Perks of being a wallflower",
+            "thumbnail": "https://angeldanielmatos.files.wordpress.com/2012/10/the-perks-of-being-a-wallflower.jpg?w=1568",
+            "url": "https://www.youtube.com/embed/n5rh7O4IDc0"
+          }
+        ]
+      ]
+    }
+  ],
+  "WatchHistory": [
+    {
+      "id": 1,
+      "cardname": "rdx",
+      "url": "https://www.youtube.com/embed/s7L2PVdrb_8",
+      "Date": "08-12-2023"
+    },
+    {
+      "id": "cd55422e-1fd7-467a-83a2-d9339c3427f5",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0",
+      "date": "2023-12-12T07:25:54.211Z"
+    },
+    {
+      "id": "731ad698-82ca-4a5d-b6ee-04eda354c7d5",
+      "cardname": "In to the Wild",
+      "url": "https://www.youtube.com/embed/XZG1FzyB8DI",
+      "date": "2023-12-12T07:34:46.683Z"
+    },
+    {
+      "id": "baf076bf-78a5-467d-b10b-f8595f39df06",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0",
+      "date": "2023-12-12T07:45:52.748Z"
+    },
+    {
+      "id": "e8ae1af7-8744-42a6-9765-ac45c9c5465e",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0",
+      "date": "2023-12-12T07:45:53.527Z"
+    },
+    {
+      "id": "4c6d1846-a321-44c8-8aa6-085df63ac01b",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0",
+      "date": "2023-12-12T07:48:49.062Z"
+    },
+    {
+      "id": "dae43625-6525-45f6-829e-fb2387be3828",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0",
+      "date": "2023-12-15T02:15:36.042Z"
+    },
+    {
+      "id": "5cbf739f-a27e-4e86-a497-4aed45f97001",
+      "cardname": "In to the Wild",
+      "url": "https://www.youtube.com/embed/XZG1FzyB8DI",
+      "date": "2023-12-15T02:15:40.919Z"
+    },
+    {
+      "id": "b9592f60-2c53-470b-af19-146dd9c0f235",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0",
+      "date": "2023-12-15T06:48:23.362Z"
+    },
+    {
+      "id": "c2f3aef9-1e9c-461a-b186-041ad9e7e5bd",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/n5rh7O4IDc0",
+      "date": "2023-12-15T06:48:51.017Z"
+    }
+  ]
+}
